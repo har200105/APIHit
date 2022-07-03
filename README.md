@@ -8,7 +8,7 @@ This package has a Function called apiHit is made which takes the paramters as r
 The parameter token,body is not required.
 
 
-## Package URL : pub.dev/packages/apihit
+## Package URL : http://pub.dev/packages/apihit
 
 
 ## Usage
